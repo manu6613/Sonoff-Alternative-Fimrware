@@ -1,3 +1,3 @@
 # Sonoff Firmware Sammlung
 
-Die nächsten Tage werde ich meine verschiededen Ansammlungen von Sonoff Alternative Firmware raufladen.
+Die nächsten Tage werde ich hier mal meine verschiedenen Sonoff Firmware raufladen.
